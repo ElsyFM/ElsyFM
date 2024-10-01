@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity and robot programing
 - 🌱 I’m currently learning java!
 - 💞️ I’m looking to collaborate on everyhting I can
-- 📫 How to reach me: email
+- 📫 How to reach me: discord @elsyfm4356
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love beans 
 
