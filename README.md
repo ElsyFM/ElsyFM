@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElsyFM
-- 👀 I’m interested in cybersecurity and robot programing
+- 👀 I’m interested in embedded systems and robot programing
 - 🌱 I’m currently learning java!
 - 💞️ I’m looking to collaborate on everyhting I can
 - 📫 How to reach me: discord @elsyfm4356
